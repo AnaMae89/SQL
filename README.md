@@ -1,2 +1,2 @@
 # SQL
-Creacion de tabla y usuarios
+Creacion de tabla usuarios y introducir 2 usuarios por comandos SQL.
